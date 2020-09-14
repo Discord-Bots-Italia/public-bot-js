@@ -1,0 +1,5 @@
+module.exports = {
+    prefix: "t.",
+    token: "your discord bot token",
+    activity: "t.help"
+}
